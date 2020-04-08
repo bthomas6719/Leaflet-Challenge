@@ -1,8 +1,0 @@
-const OMWeather_API = "a706990a6c2bbd45bfc97d23d2ac7e0c"
-const Google_Maps_Key = "AIzaSyCm9CKJ7cj1ShwZAWTg_VdZVIZGU6GMyoU"
-const First_Weather_Key = "20a27a4e35423f124847c826bf0e2137"
-const sql_reference = "bptmkt04"
-const quandl_api = "zsfP5D-RZyT6waop3PVU"
-const mapbox_api = "sk.eyJ1IjoiYnRob21hczY3MTkiLCJhIjoiY2s4Nmk2MTA0MDZmZDNtbGpwdGg3cWw1bSJ9.iVGEGqetoGYQtDjB1o9g9g"
-const usda_api = "1xhs2l9m9hdeozycjmr5ihyk0"
-"usda_secret: 1cwktsu1cersr4xj9ciocojpa8qcmp8zvoo8sf1gdygx4c7vf1"
